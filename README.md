@@ -15,10 +15,9 @@ Full Stack Developer from India. I build web applications that scale and APIs th
 
 ## 📱 Find Me Here
 
-- **GitHub:** [@KeshriNandan](https://github.com/KeshriNandan)
+- **X:** [@KeshriNandan](https://x.com/Hey_KND)
 - **LinkedIn:** [KeshriNandan](https://linkedin.com/in/KeshriNandan)
-- **Portfolio:** [Codolio](https://codolio.com/profile/KeshriNandan)
-- **Email:** keshrinandan510@gmail.com
+
 
 ## 🏃‍♂️ Off Screen
 
