@@ -22,6 +22,6 @@ Full Stack Developer from India. I build web applications that scale and APIs th
 
 ## 🏃‍♂️ Off Screen
 
-When I'm not debugging code, you'll find me running, hitting the gym, or binge-watching videos.
+When I'm not debugging code, you'll find me running, hitting the gym, or binge-watching youtube videos.
 
 ---
