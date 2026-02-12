@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Keshri 👋
 
-<!--
-**keshrinandan99/keshrinandan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who Am I?
 
-Here are some ideas to get you started:
+Full Stack Developer from India. I build web applications that scale and APIs that actually work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools I Work With
+
+**Frontend:** React.js, TailwindCSS, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, PostgreSQL  
+**Languages:** JavaScript, Python, C/C++  
+**Tools:** Git, GitHub, Postman, Prisma, Mongoose
+
+## 📱 Find Me Here
+
+- **GitHub:** [@KeshriNandan](https://github.com/KeshriNandan)
+- **LinkedIn:** [KeshriNandan](https://linkedin.com/in/KeshriNandan)
+- **Portfolio:** [Codolio](https://codolio.com/profile/KeshriNandan)
+- **Email:** keshrinandan510@gmail.com
+
+## 🏃‍♂️ Off Screen
+
+When I'm not debugging code, you'll find me running, hitting the gym, or binge-watching videos.
+
+---
